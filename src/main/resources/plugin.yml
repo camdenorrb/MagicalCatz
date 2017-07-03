@@ -1,0 +1,5 @@
+name: MagicalCatz
+version: Kat1.0
+author: MrKitty_Cat
+depend: [KatLibraries]
+main: me.camdenorrb.magicalcatz.MagicalCatz
